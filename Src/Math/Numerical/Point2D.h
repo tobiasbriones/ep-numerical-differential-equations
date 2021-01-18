@@ -6,6 +6,7 @@
  */
 
 #pragma once
+
 #include <string>
 
 using std::string;
@@ -22,7 +23,8 @@ public:
     Point2D(double, double);
 
     double getX() const;
-    double getY() const;
-    string toString() const;
 
+    double getY() const;
+
+    string toString() const;
 };

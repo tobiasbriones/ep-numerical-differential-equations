@@ -6,6 +6,7 @@
  */
 
 #pragma once
+
 #include <stdexcept>
 #include <string>
 #include <vector>
@@ -23,13 +24,14 @@ class Polynomial
 {
 
 private:
-	vector<Monomial> monomials;
+    vector <Monomial> monomials;
 
 public:
-	Polynomial();
+    Polynomial();
 
-	void addMonomial(int, int, double);
-	double eval(double, double);
-	string toString();
+    void addMonomial(int, int, double);
 
+    double eval(double, double);
+
+    string toString();
 };

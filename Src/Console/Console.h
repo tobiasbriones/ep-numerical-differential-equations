@@ -6,6 +6,7 @@
  */
 
 #pragma once
+
 #include <iostream>
 #include "../Main.h"
 
@@ -13,4 +14,5 @@ using std::cout;
 using std::endl;
 
 void printHeader();
+
 void clear();
