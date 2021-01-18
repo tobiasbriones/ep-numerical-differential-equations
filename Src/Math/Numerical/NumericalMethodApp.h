@@ -105,7 +105,7 @@ public:
 
     /// <summary>
     /// It is called when running a new numerical app on the console. The default implementation calls the standard
-    /// processes defined in the base class, so if a different behaviour is needed it should be overriden by the
+    /// processes defined in the base class, so if a different behaviour is needed it should be overridden by the
     /// respective subclass.
     /// </summary>
     void run();
