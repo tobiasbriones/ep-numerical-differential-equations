@@ -1,6 +1,6 @@
 # Example Project: Numerical Differential Equations
 
-[![EP](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
+[![EP](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-numerical-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
 &nbsp;
 [![GitHub Repository](https://raw.githubusercontent.com/TobiasBriones/general-images/main/example-projects/badges/ep-gh-repo-badge.svg)](https://github.com/TobiasBriones/example.math.numerical.cpp.differential-equations)
 
