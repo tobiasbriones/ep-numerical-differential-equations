@@ -9,6 +9,13 @@
 Example project for computing solutions for differential equations and systems of differential equations by using
 numerical analysis.
 
+This console app is based on
+the [EP: Secant Method](https://github.com/TobiasBriones/example.math.numerical.polynomial.cpp.secant-method)
+so that I was able to reuse the logic to gather user inputs and some other tools like Polynomials.
+Thus, the idea was to take that part of the app as a template for creating more console apps asking
+for numerical inputs. For instance, more numerical methods can be added to this app by extending
+the [NumericalMethodApp](./Src/Math/Numerical/NumericalMethodApp.h) class.
+
 ## Example
 
 Let y' = y, y(0) = 1 (a quite trivial IVP). Approximate y(4) by using the Euler method. Use four
