@@ -32,4 +32,5 @@ public:
     double getY() const;
 
     string toString() const;
+
 };

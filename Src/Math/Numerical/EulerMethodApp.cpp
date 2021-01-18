@@ -27,7 +27,7 @@ EulerMethodApp::~EulerMethodApp()
     pPolynomial = NULL;
 }
 
-// --------------------------------------------- NUMERICAL METHOD APP --------------------------------------------- //
+// ---------------------------------------------- NUMERICAL METHOD APP ---------------------------------------------- //
 string EulerMethodApp::getName() const
 {
     return "EULER";
@@ -42,7 +42,7 @@ bool EulerMethodApp::gatherInput()
 
         for (int i = 1; i <= n; i++)
         {
-            cout << "Enteting monomial #" << i << endl;
+            cout << "Entering monomial #" << i << endl;
             double coefficient = getDouble("Enter the coefficient: ");
             double xdeg = getInt("Enter the degree of x: ");
             double ydeg = getInt("Enter the degree of y: ");
@@ -98,7 +98,7 @@ void EulerMethodApp::reset()
     pPolynomial = NULL;
 }
 
-// --------------------------------------------- STATIC METHODS --------------------------------------------- //
+// ------------------------------------------------- STATIC METHODS ------------------------------------------------- //
 double EulerMethodApp::roundPrecision(double value, double error)
 {
     return round(value / error) * error;
@@ -111,12 +111,6 @@ vector <Point2D> EulerMethodApp::compute(Polynomial& p, int n, double a, double 
     double currentX = a;
     double currentY = initialValue;
 
-    /*cout << "Computing for P(x,y)= " << p.toString() << endl;
-    cout << "n = " << n << endl;
-    cout << "h = " << h << endl;
-    cout << "Current x = " << currentX << ", Current y = " << currentY << endl;*/
-
-
     result.push_back(Point2D(currentX, currentY));
     for (int i = 1; i <= n; i++)
     {
@@ -124,7 +118,6 @@ vector <Point2D> EulerMethodApp::compute(Polynomial& p, int n, double a, double 
         currentX += h;
 
         result.push_back(Point2D(currentX, currentY));
-        //cout << "Current x = " << currentX << ", Current y = " << currentY << endl;
     }
     return result;
 }
