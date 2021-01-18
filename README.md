@@ -1,4 +1,4 @@
-# Example Project - Numerical Differential Equations
+# Example Project: Numerical Differential Equations
 
 [![EP](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/differential-equations)
 &nbsp;
@@ -19,7 +19,7 @@ Example Project: [App](https://tobiasbriones.github.io/example-project)
 
 ## About
 
-**Example Project: Differential Equations**
+**Example Project: Numerical Differential Equations**
 
 Example project for computing solutions for differential equations and systems of differential equations by using
 numerical analysis.
