@@ -9,6 +9,10 @@
 Example project for computing solutions for differential equations and systems of differential equations by using
 numerical analysis.
 
+## Screenshots
+
+[![Screenshot 1](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/nde-screenshot-1.png)](https://github.com/TobiasBriones/images/tree/main/example-projects)
+
 ## Contact
 
 This software: [GitHub Repository](https://github.com/TobiasBriones/example.math.numerical.cpp.differential-equations)
