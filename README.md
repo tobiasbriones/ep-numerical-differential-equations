@@ -1,16 +1,16 @@
 # Example Project: Numerical Differential Equations
 
-[![EP](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-numerical-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
+[![EP](https://raw.githubusercontent.com/tobiasbriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-numerical-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
 &nbsp;
-[![GitHub Repository](https://raw.githubusercontent.com/TobiasBriones/general-images/main/example-projects/badges/ep-gh-repo-badge.svg)](https://github.com/TobiasBriones/example.math.numerical.cpp.differential-equations)
+[![GitHub Repository](https://raw.githubusercontent.com/tobiasbriones/general-images/main/example-projects/badges/ep-gh-repo-badge.svg)](https://github.com/tobiasbriones/ep-numerical-differential-equations)
 
-[![Project GitHub License](https://img.shields.io/github/license/TobiasBriones/example.math.numerical.cpp.differential-equations.svg?style=flat-square)](https://github.com/TobiasBriones/example.math.numerical.cpp.differential-equations/blob/main/LICENSE)
+[![Project GitHub License](https://img.shields.io/github/license/tobiasbriones/ep-numerical-differential-equations.svg?style=flat-square)](https://github.com/tobiasbriones/ep-numerical-differential-equations/blob/main/LICENSE)
 
 Example project for computing solutions for differential equations and systems of differential equations by using
 numerical analysis.
 
 This console app is based on
-the [EP: Secant Method](https://github.com/TobiasBriones/example.math.numerical.polynomial.cpp.secant-method)
+the [EP: Secant Method](https://github.com/tobiasbriones/ep-secant-method)
 so that I was able to reuse the logic to gather user inputs and some other tools like Polynomials.
 Thus, the idea was to take that part of the app as a template for creating more console apps asking
 for numerical inputs. For instance, more numerical methods can be added to this app by extending
@@ -45,17 +45,17 @@ Screenshot 2.
 
 ## Screenshots
 
-[![Screenshot 1](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/nde-screenshot-1.png)](https://github.com/TobiasBriones/images/tree/main/example-projects)
+[![Screenshot 1](https://raw.githubusercontent.com/tobiasbriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/nde-screenshot-1.png)](https://github.com/tobiasbriones/images/tree/main/example-projects)
 
 ---
 
-[![Screenshot 2](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/nde-screenshot-2.png)](https://github.com/TobiasBriones/images/tree/main/example-projects)
+[![Screenshot 2](https://raw.githubusercontent.com/TobiasBriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/nde-screenshot-2.png)](https://github.com/tobiasbriones/images/tree/main/example-projects)
 
 ## Contact
 
-This software: [GitHub Repository](https://github.com/TobiasBriones/example.math.numerical.cpp.differential-equations)
+This project: [GitHub Repository](https://github.com/tobiasbriones/ep-numerical-differential-equations)
 
-Tobias Briones: [GitHub](https://github.com/TobiasBriones)
+Tobias Briones: [GitHub](https://github.com/tobiasbriones)
 
 Example Project: [App](https://tobiasbriones.github.io/example-project)
 
