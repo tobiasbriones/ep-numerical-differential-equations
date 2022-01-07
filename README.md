@@ -1,10 +1,10 @@
 # Example Project: Numerical Differential Equations
 
-[![EP](https://raw.githubusercontent.com/tobiasbriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-numerical-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
+[![Project](https://raw.githubusercontent.com/tobiasbriones/images/main/example-projects/example.math.numerical.polynomial.cpp.secant-method/ep-numerical-differential-equations-badge.svg)](https://tobiasbriones.github.io/example-project/ep/numerical-differential-equations)
 &nbsp;
-[![GitHub Repository](https://raw.githubusercontent.com/tobiasbriones/general-images/main/example-projects/badges/ep-gh-repo-badge.svg)](https://github.com/tobiasbriones/ep-numerical-differential-equations)
+[![GitHub Repository](https://img.shields.io/static/v1?label=GITHUB&message=REPOSITORY&labelColor=555&color=0277bd&style=for-the-badge&logo=GITHUB)](https://github.com/tobiasbriones/ep-numerical-differential-equations)
 
-[![Project GitHub License](https://img.shields.io/github/license/tobiasbriones/ep-numerical-differential-equations.svg?style=flat-square)](https://github.com/tobiasbriones/ep-numerical-differential-equations/blob/main/LICENSE)
+[![GitHub Project License](https://img.shields.io/github/license/tobiasbriones/ep-numerical-differential-equations.svg?style=flat-square)](https://github.com/tobiasbriones/ep-numerical-differential-equations/blob/main/LICENSE)
 
 Example project for computing solutions for differential equations and systems of differential equations by using
 numerical analysis.
@@ -70,4 +70,4 @@ Copyright © 2020 Tobias Briones. All rights reserved.
 
 ### License
 
-This software is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
